@@ -1,0 +1,6 @@
+*~
+Makefile
+Simplex
+*.o
+moc_*
+ui_*.h
